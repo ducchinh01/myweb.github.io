@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './Slide.scss';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from 'react-bootstrap/Carousel';
 
